@@ -1,4 +1,4 @@
-# AI-Chatbot
+# Chatbot
 
 ## Chatbot-model.py
 This python file performs the necessary pre-processing on the FAQs and converts them to machine readable **One Hot Encoded** data for the neural network model which is implemented using Tensorflow.
